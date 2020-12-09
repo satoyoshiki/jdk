@@ -1,0 +1,7 @@
+AnchorTest5.java:18: error: invalid name for anchor: "123 "
+     * <a id="123 "></a>
+          ^
+AnchorTest5.java:28: error: anchor already defined: "123"
+     * <p id=123 >text</p>
+          ^
+2 errors
